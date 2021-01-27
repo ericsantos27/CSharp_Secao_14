@@ -1,0 +1,13 @@
+C:\Users\esant\Source\Repos\Curso_CSharp_Secao_14\Secao_14_Aula_199_Revisao_Exercicio\bin\Debug\netcoreapp3.1\Secao_14_Aula_199_Revisao_Exercicio.exe
+C:\Users\esant\Source\Repos\Curso_CSharp_Secao_14\Secao_14_Aula_199_Revisao_Exercicio\bin\Debug\netcoreapp3.1\Secao_14_Aula_199_Revisao_Exercicio.deps.json
+C:\Users\esant\Source\Repos\Curso_CSharp_Secao_14\Secao_14_Aula_199_Revisao_Exercicio\bin\Debug\netcoreapp3.1\Secao_14_Aula_199_Revisao_Exercicio.runtimeconfig.json
+C:\Users\esant\Source\Repos\Curso_CSharp_Secao_14\Secao_14_Aula_199_Revisao_Exercicio\bin\Debug\netcoreapp3.1\Secao_14_Aula_199_Revisao_Exercicio.runtimeconfig.dev.json
+C:\Users\esant\Source\Repos\Curso_CSharp_Secao_14\Secao_14_Aula_199_Revisao_Exercicio\bin\Debug\netcoreapp3.1\Secao_14_Aula_199_Revisao_Exercicio.dll
+C:\Users\esant\Source\Repos\Curso_CSharp_Secao_14\Secao_14_Aula_199_Revisao_Exercicio\bin\Debug\netcoreapp3.1\Secao_14_Aula_199_Revisao_Exercicio.pdb
+C:\Users\esant\Source\Repos\Curso_CSharp_Secao_14\Secao_14_Aula_199_Revisao_Exercicio\obj\Debug\netcoreapp3.1\Secao_14_Aula_199_Revisao_Exercicio.csprojAssemblyReference.cache
+C:\Users\esant\Source\Repos\Curso_CSharp_Secao_14\Secao_14_Aula_199_Revisao_Exercicio\obj\Debug\netcoreapp3.1\Secao_14_Aula_199_Revisao_Exercicio.AssemblyInfoInputs.cache
+C:\Users\esant\Source\Repos\Curso_CSharp_Secao_14\Secao_14_Aula_199_Revisao_Exercicio\obj\Debug\netcoreapp3.1\Secao_14_Aula_199_Revisao_Exercicio.AssemblyInfo.cs
+C:\Users\esant\Source\Repos\Curso_CSharp_Secao_14\Secao_14_Aula_199_Revisao_Exercicio\obj\Debug\netcoreapp3.1\Secao_14_Aula_199_Revisao_Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\esant\Source\Repos\Curso_CSharp_Secao_14\Secao_14_Aula_199_Revisao_Exercicio\obj\Debug\netcoreapp3.1\Secao_14_Aula_199_Revisao_Exercicio.dll
+C:\Users\esant\Source\Repos\Curso_CSharp_Secao_14\Secao_14_Aula_199_Revisao_Exercicio\obj\Debug\netcoreapp3.1\Secao_14_Aula_199_Revisao_Exercicio.pdb
+C:\Users\esant\Source\Repos\Curso_CSharp_Secao_14\Secao_14_Aula_199_Revisao_Exercicio\obj\Debug\netcoreapp3.1\Secao_14_Aula_199_Revisao_Exercicio.genruntimeconfig.cache
